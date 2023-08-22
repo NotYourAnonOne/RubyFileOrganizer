@@ -32,4 +32,4 @@ gem install fileutils
 
 ## License
 
-This project is licensed under the (MIT License)[LICENSE]. Feel free to use, modify, and distribute this script as you see fit.
+This project is licensed under the [LICENSE](LICENSE). Feel free to use, modify, and distribute this script as you see fit.
